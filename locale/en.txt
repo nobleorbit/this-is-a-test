@@ -1,0 +1,43 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_E2A188E3_F2B1_61C5_41D5_FEEB94444CF6.source = https://forestgreen-aardvark-666311.hostingersite.com/contact/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A0DEA5DB_AF54_BB4B_41E5_6D263C89FB48.toolTip = Office
+
+## Media
+
+### Image
+imlevel_66E77CA4_7033_4841_41AE_34DDDB0E1271.url = media/popup_65EF5604_7032_D841_41C3_BCEF896088AD_en_0_0.webp
+imlevel_66E76CA4_7033_4841_41CE_F21A720B332C.url = media/popup_65EF5604_7032_D841_41C3_BCEF896088AD_en_0_1.webp
+imlevel_66E71CA4_7033_4841_41B8_23B12A0D348E.url = media/popup_65EF5604_7032_D841_41C3_BCEF896088AD_en_0_2.webp
+imlevel_66E5DC88_7033_4840_41C2_CEAC8C443A82.url = media/popup_668557CA_7037_47C0_41C1_EE3F1AD07060_en_0_0.webp
+imlevel_66E5CC89_7033_4840_41D8_F6D361967150.url = media/popup_668557CA_7037_47C0_41C1_EE3F1AD07060_en_0_1.webp
+imlevel_66E5FC89_7033_4840_41D7_5F45CA3B2C20.url = media/popup_668557CA_7037_47C0_41C1_EE3F1AD07060_en_0_2.webp
+
+### Popup Image
+
+### Title
+photo_66165193_7036_B840_41C5_E193C82BABFF.label = 553001733_650143801498722_8174829652522819998_n
+panorama_A037F499_AF54_59D7_41E1_B6DC9C7866C7.label = IMG_20250111_113416_00_007
+panorama_A2109F30_AF54_48D5_41CF_B072B64D678C.label = IMG_20250112_195622_00_036
+
+## Popup
+
+### Body
+htmlText_66A07B99_7036_C843_41D9_5D6E7EA7276F.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This Item is an LCD mOnitor for Gaming</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_66A02B98_7036_C841_41CC_AF65EFE3C927.title = 27 inch monitor
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 3
